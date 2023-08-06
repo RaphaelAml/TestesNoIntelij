@@ -2,8 +2,12 @@ package org.example.testa;
 
 public class Cadastro {
 
-   private String nome;
-   private int idade;
+    private String nome;
+    private int idade;
+
+    private void fazerAniversario() {
+
+    }
 
     public String getNome() {
         return nome;
